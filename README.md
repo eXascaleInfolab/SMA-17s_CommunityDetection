@@ -9,6 +9,7 @@ Community detection programming exercises of the SMA-17s course.
   - [Programming exercises (week 1)](igraph_cliques.ipynb)
   - [Slides (week 2)](https://goo.gl/vdDwcO)
   - [Programming exercises (week 2)](igraph_comdet.ipynb)
+  - [Solutions](https://goo.gl/vSuWNV)
 
 # Prerequisites
 [IPython notebook](https://ipython.org/notebook.html) is used to demonstrate the exercises, but any IDE can be used to implement them, for example [Komodo Edit](https://www.activestate.com/komodo-edit) or [Atom](https://atom.io/).  
